@@ -14,13 +14,13 @@ This repository contains my coursework, assignments, and implementations for the
   - Minimum Skew
   - Frequent Words with Mismatches
   - Finding a DnaA Box in *Salmonella enterica*
-- 📁 Folder: `assignment1-pattern-analysis`
+- 📁 Folder: `pattern-and-frequency-analysis`
 
 ### 🔹 Assignment 2 – Motif Finding Algorithms
 - Covers two key motif-finding methods in multiple DNA sequences:
   - Median String Algorithm
   - Greedy Motif Search
-- 📁 Folder: `assignment2-motif-finding`
+- 📁 Folder: `motif-finding-algorithms`
 
 ---
 
