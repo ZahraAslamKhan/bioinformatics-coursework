@@ -34,4 +34,4 @@ This repository contains my coursework, assignments, and implementations for the
 ## 🚀 How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/bioinformatics-coursework.git
+   'git clone https://github.com/your-username/bioinformatics-coursework.git'
